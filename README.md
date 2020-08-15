@@ -8,3 +8,5 @@ openings.py - for a list of classified PSS meshes (in this case, the 1000 classi
 3Dplot.py - code to create a 3D plot with X and Y coordinates being the (x,y) coordinates of the 2D UMAP "creature" and the Z coordinate as number of openings
 
 quantized3Dplot.py - code to create a 3D plot with X and Y coordinates being the (x,y) coordinates of the 2D UMAP "creature" and the Z coordinate as number of openings with three levels - one opening, two openings, and greater than two openings
+
+shaft_example.png - example of a shaft visualization; shaftopenings_example.png - example of a visualization of just the openings of the same shaft
